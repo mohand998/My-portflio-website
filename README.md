@@ -1,5 +1,6 @@
 # My-portflio-website
-Well, This took me so many time, I only did by myself, Although I did not code completely and took a template from Xeditor platform. And put my creative into practice. 
+Well, This took me so much time, I only did it by myself, Although I did not code entirely and took a template from the Xeditor platform. And put my creativity into practice. 
 
-Here it is! I hope you all like it.
+Here it is!
 Link - www.dmohan.online
+I hope you all like it.
